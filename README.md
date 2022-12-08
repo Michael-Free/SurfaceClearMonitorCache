@@ -6,7 +6,7 @@ For some reason dual monitors will just stop working. No amounts of reboots, unp
 
 It amazes me that Microsoft is so incapable of making an OS that works on their own hardware.  The only think that seems to work is applying this registry file, which seems to clear the monitor cache.
 
-Then again... I dont use Iindows, I just support these silly fools who do.
+Then again... I dont use Windows, I just support these silly fools who do.
 
 It appears to be a well documented issue:
 
