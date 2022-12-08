@@ -1,4 +1,4 @@
-# SurfaceClearMonitorCache
+# Microsoft Surface Dual Monitor Fix - Monitor Cache
 
 This seems to be an issue with Microsoft Surfaces and a lot of dockable laptops.
 
